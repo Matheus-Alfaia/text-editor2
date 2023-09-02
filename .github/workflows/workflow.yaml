@@ -4,7 +4,7 @@ on:
 
 jobs:
   create-unit-test:
-    name: Create unit testes
+    name: Create unit testesgit
     runs-on: ubuntu-latest
     permissions:
       issues: write
